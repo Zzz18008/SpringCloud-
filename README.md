@@ -1,4 +1,4 @@
-# SpringCloud微服务大作业
+# SpringCloud实训
 
 本项目为 SpringCloud 微服务实训作业，包含后端微服务源码、前端静态页面、数据库脚本、答辩材料和部署说明。项目 GitHub 仓库地址如下：
 
@@ -147,4 +147,3 @@ mvn clean package -DskipTests
 
 - GitHub：`https://github.com/Zzz18008/SpringCloud-.git`
 
-如需补充 Gitee 地址，可在提交前添加。
